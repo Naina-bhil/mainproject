@@ -6,3 +6,5 @@ access_prdct,access_prdct,model_prdct,base.group_user,1,1,1,1
 access_order,access_order,model_order,base.group_user,1,1,1,1
 access_payment,access_payment,model_payment,base.group_user,1,1,1,1
 access_zone,access_zone,model_zone,base.group_user,1,1,1,1
+access_visiting_plan,access_visiting_plan,model_visiting_plan,base.group_user,1,1,1,1
+access_admin,access_admin,model_admin,base.group_user,1,1,1,1

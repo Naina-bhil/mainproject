@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 	<data>
-		<record id="users_detail" model="users">
+		<record id="users_detail" model="admin">
 			<field name="name">Administrator</field>
 			<field name="email">admin@gmail.com</field>
 			<field name="address">Gandhinagar</field>
 			<field name="mobno">1234567890</field>
 			<field name="password">admin</field>
 			<field name="role">admin</field>
-		</record>
-		<!-- <record id="users_detail" model="sal_per">
-			<field name="name">Navya</field>
-			<field name="email">navya@gmail.com</field>
-			<field name="address">Gandhinagar</field>
-			<field name="mobno">1234567890</field>
-			<field name="password">111</field>
-			<field name="role">Sales Person</field>
-		</record> -->
-		<record id="users_detail" model="prdct">
-			<field name="p_name">monaco</field>
-			<field name="p_price">20</field>
-		</record>
-		<record id="users_detail1" model="prdct">
-			<field name="p_name">orange</field>
-			<field name="p_price">40</field>
 		</record>
 	</data>
 </odoo>
